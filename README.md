@@ -1,135 +1,223 @@
-# AI Training 026 🚀
+# AI Foundations to Generative AI
 
-Welcome to **AI Training 026**, a practical and project-based Artificial Intelligence training program designed to take learners from AI fundamentals to building real-world Generative AI applications.
-
-## 🎯 Course Objectives
-
-By the end of this training, participants will be able to:
-
-* Understand AI fundamentals and concepts
-* Write Python programs confidently
-* Handle and preprocess data
-* Work with NLP concepts
-* Use Large Language Models (LLMs)
-* Design effective prompts
-* Build Retrieval-Augmented Generation (RAG) systems
-* Develop AI-powered applications
+A 6-week beginner-friendly training program designed to help learners understand Artificial Intelligence, build programming fundamentals, work with data, and create practical AI-powered applications.
 
 ---
 
-# 📚 Course Structure
+## About This Course
 
-## Week 1: AI Foundations
+Artificial Intelligence is transforming industries and creating new opportunities for innovation. This course provides a structured pathway for beginners to understand AI concepts, develop Python programming skills, work with real-world datasets, and explore modern Generative AI tools.
 
-### Topics Covered
-
-* Introduction to Artificial Intelligence
-* Machine Learning vs Deep Learning vs Generative AI
-* AI Applications and Use Cases
-* Understanding LLMs
-* AI Ecosystem Overview
-* AI Development Workflow
-
-### Deliverables
-
-* AI Concept Assignments
-* AI Research Tasks
+The training emphasizes practical learning through exercises, mini-projects, and a final capstone project.
 
 ---
 
-## Week 2: Python Basics
+## Learning Outcomes
 
-### Topics Covered
+By the end of this course, learners will be able to:
 
-* Python Introduction
+* Understand core concepts of Artificial Intelligence and Generative AI
+* Differentiate between AI, Machine Learning, and Deep Learning
+* Write Python programs for problem-solving and automation
+* Work with datasets using Python libraries
+* Analyze and visualize data effectively
+* Understand Large Language Models (LLMs)
+* Apply prompt engineering techniques
+* Use modern AI tools productively
+* Build simple AI-powered applications
+
+---
+
+## Course Schedule
+
+| Week   | Module              | Focus Area                     |
+| ------ | ------------------- | ------------------------------ |
+| Week 1 | AI Foundations      | AI Concepts & Digital Thinking |
+| Week 2 | Python Basics       | Programming Fundamentals       |
+| Week 3 | Data Handling       | Data Analysis & Visualization  |
+| Week 4 | Generative AI & NLP | LLMs, NLP & AI Generation      |
+| Week 5 | Prompt Engineering  | AI Interaction & Automation    |
+| Week 6 | AI Applications     | Chatbots & RAG Fundamentals    |
+
+---
+
+## Weekly Modules
+
+### Week 1 – AI Foundations + Digital Thinking
+
+Topics Covered:
+
+* AI vs Machine Learning vs Deep Learning
+* Types of AI
+* Real-world AI Applications
+* Understanding Data
+* Logic Building Exercises
+
+Mini Activities:
+
+* AI Observation Challenge
+* Logic Building Exercises
+* AI Use Case Analysis
+
+---
+
+### Week 2 – Python Basics for AI
+
+Topics Covered:
+
+* Python Setup
 * Variables and Data Types
-* Operators
+* Input and Output
 * Conditional Statements
 * Loops
 * Functions
-* Lists, Tuples, Sets, Dictionaries
-* File Handling
-* Exception Handling
+* Lists and Strings
 
-### Deliverables
+Mini Project:
 
-* Python Exercises
-* Mini Projects
+Student Utility Program
+
+Examples:
+
+* Grade Calculator
+* Password Strength Checker
+* Student Result Manager
 
 ---
 
-## Week 3: Data Handling
+### Week 3 – Data Handling + Python Libraries
 
-### Topics Covered
+Topics Covered:
 
+* NumPy Fundamentals
+* Pandas Fundamentals
+* Data Cleaning
+* Data Visualization
+* Dataset Analysis
+
+Mini Project:
+
+Dataset Analysis Dashboard
+
+Deliverables:
+
+* Charts
+* Insights
+* Data Reports
+
+---
+
+### Week 4 – Generative AI & NLP Basics
+
+Topics Covered:
+
+* Introduction to Generative AI
+* Natural Language Processing Basics
+* Tokens
+* Embeddings
+* LLM Concepts
+* ChatGPT & Groq
+
+Mini Project:
+
+AI Content Generator
+
+Examples:
+
+* Blog Generator
+* Caption Generator
+* Email Writer
+
+---
+
+### Week 5 – Prompt Engineering + AI Tools
+
+Topics Covered:
+
+* Prompt Engineering Fundamentals
+* Zero-Shot Prompting
+* Few-Shot Prompting
+* Role-Based Prompting
+* Output Formatting
+* AI Productivity Tools
+
+Mini Project:
+
+Workflow Automation
+
+Examples:
+
+* Content Workflow
+* Research Assistant
+* Email Automation
+
+---
+
+### Week 6 – AI Applications
+
+Topics Covered:
+
+* AI Agents
+* Chatbot Fundamentals
+* RAG Fundamentals
+* Embeddings
+* Document Understanding
+* AI Application Architecture
+
+Final Project Options:
+
+* AI Chatbot
+* Resume Generator
+* Document Q&A Assistant
+* Knowledge Base Assistant
+
+---
+
+## Technologies Used
+
+* Python
 * NumPy
 * Pandas
-* Data Cleaning
-* Data Transformation
-* Data Visualization
-* CSV and Excel Handling
-
-### Deliverables
-
-* Data Analysis Assignments
-* Dataset Exploration Tasks
+* Matplotlib
+* OpenAI APIs
+* Groq APIs
+* LangChain
+* ChromaDB
+* Streamlit
 
 ---
 
-## Week 4: Generative AI & NLP
+## Final Capstone Project
 
-### Topics Covered
+Learners will build a complete AI-powered solution that demonstrates concepts learned throughout the training.
 
-* NLP Fundamentals
-* Tokenization
-* Embeddings
-* Transformers
-* Large Language Models
-* OpenAI Models
-* Hugging Face Ecosystem
+Projects should include:
 
-### Deliverables
-
-* NLP Exercises
-* LLM Experiments
+* Problem Identification
+* Solution Design
+* AI Integration
+* User Interface
+* Presentation and Documentation
 
 ---
 
-## Week 5: Prompt Engineering
+## Instructor
 
-### Topics Covered
+Pradip Koirala
 
-* Prompt Design Principles
-* Zero-shot Prompting
-* Few-shot Prompting
-* Chain-of-Thought Prompting
-* Role-based Prompting
-* Prompt Evaluation
+Computer Engineer | AI Engineer | Trainer
 
-### Deliverables
-
-* Prompt Engineering Challenges
-* AI Chatbot Exercises
+Passionate about making AI education practical, accessible, and project-driven.
 
 ---
 
-## Week 6: AI Applications & RAG
+## License
 
-### Topics Covered
+This repository is intended for educational purposes and training activities.
 
-* LangChain Fundamentals
-* Vector Databases
-* Embeddings
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* AI Application Development
 
-### Deliverables
 
-* RAG Project
-* AI Assistant Project
 
----
 
 # 🛠️ Technologies Used
 
@@ -185,7 +273,7 @@ Assignment_Week3_PradipKoirala.ipynb
 ## Project Naming
 
 ```text
-Project_RAG_PradipKoirala
+Project_RAG_eveshrestha
 ```
 
 ---
@@ -214,7 +302,7 @@ Students will build a complete AI-powered application using:
 
 # 👨‍🏫 Instructor
 
-Er. Pradip Sapkota
+Er. Pradip Spakota
 
 Computer Engineer | AI Engineer | Trainer
 
