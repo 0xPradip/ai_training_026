@@ -1,0 +1,7 @@
+opencv-python==4.11.0.86
+mediapipe==0.10.14
+deepface==0.0.93
+tensorflow==2.16.1
+tf-keras==2.16.0
+protobuf==4.25.3
+numpy==1.26.4

@@ -2,10 +2,8 @@
 
 | Resource      | Description                   |
 | ------------- | ----------------------------- |
-| Slides        | Week 2 Lecture Slides         |
-| Notes         | Python Basics Notes           |
-| Code Examples | In-Class Python Examples      |
-| Exercises     | Practice Activities           |
+| Slides-note   | Week 2 Lecture Slides         |
+| Exercise      | Practice Activities           |
 | Assignment    | Python Mini Project Challenge |
 
 ---

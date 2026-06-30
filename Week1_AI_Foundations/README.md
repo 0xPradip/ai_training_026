@@ -2,9 +2,8 @@
 
 | Resource | Description |
 |-----------|-------------|
-| Slides | Lecture Slides |
-| Notes | Week 1 Notes |
-| Exercises | Practice Activities |
+| Slides-note | Lecture Slides |
+| password_checker | Practice Activities |
 | Assignment | AI Detective Mode |
 
 ---
